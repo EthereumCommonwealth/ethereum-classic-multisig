@@ -3,7 +3,8 @@ This repo is represents an implementation of [OpenZeppelin Multisig wallet](http
 
 ## Security
 The intention of this repo is to provide a secure implementation of Multisig wallet for general use at Ethereum Classic blockchain.
-This is currently under security audit.
+
+Security audit: https://gist.github.com/Dexaran/2389d5e7290ab69709d33abfe0485bec
 
 ## License
 Code released under the [MIT License](https://github.com/EthereumCommonwealth/ethereum-classic-multisig/blob/master/LICENSE).
